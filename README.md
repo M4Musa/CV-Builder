@@ -1,1 +1,2 @@
-# CV-Builder
+# Quiz-App
+ A simple and interactive Quiz App developed in Android Studio using Java and XML. The app presents a series of multiple-choice questions with options to navigate between questions using "Next" and "Previous" buttons. It keeps track of the user's answers and calculates the final score at the end of the quiz. The app features a clean and responsive user interface, ensuring a smooth user experience across different screen sizes.
