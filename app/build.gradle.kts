@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.quizapp"
+    namespace = "com.example.cvbuilder"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.quizapp"
+        applicationId = "com.example.cvbuilder"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

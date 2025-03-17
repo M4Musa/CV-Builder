@@ -9,11 +9,11 @@
 
 
 
-        <ImageView
-            android:layout_width="2000dp"
-            android:layout_height="200dp"
-            android:src="@drawable/logo"
-            android:id="@+id/ivlogo"
-            />
+    <ImageView
+        android:layout_width="2000dp"
+        android:layout_height="200dp"
+        android:src="@drawable/logo"
+        android:id="@+id/ivlogo"
+        />
 
 </LinearLayout>

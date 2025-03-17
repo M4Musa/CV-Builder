@@ -1,4 +1,6 @@
-package com.example.quizapp;
+package com.example.cvbuilder;
+
+
 
 import android.content.Intent;
 import android.os.Bundle;
